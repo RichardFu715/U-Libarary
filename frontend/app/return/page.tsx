@@ -6,7 +6,6 @@ import {
     DataGrid,
     GridColDef,
     GridRenderCellParams,
-    GridRowParams,
     GridToolbarContainer,
     GridToolbarExport, GridToolbarQuickFilter
 } from "@mui/x-data-grid";

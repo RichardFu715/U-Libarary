@@ -46,6 +46,7 @@ export const userGroup = new Elysia()
                             username: t.String(),
                             email: t.String(),
                             password: t.String(),
+                            role: t.Enum(UserRole),
                         })
                     })
                 })
